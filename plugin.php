@@ -1,14 +1,17 @@
 <?php
 /*
-  Plugin Name: Newsletter
-  Plugin URI: http://www.satollo.net/plugins/newsletter
-  Description: Newsletter is a cool plugin to create your own subscriber list, to send newsletters, to build your business. <strong>Before update give a look to <a href="http://www.satollo.net/plugins/newsletter#update">this page</a> to know what's changed.</strong>
-  Version: 2.5.2.6
-  Author: Satollo
-  Author URI: http://www.satollo.net
-  Disclaimer: Use at your own risk. No warranty expressed or implied is provided.
+  Plugin Name: Newsletter for groups
+  Plugin URI: http://mecus.es/plugins/
+  Description: Newsletter is a cool plugin to create your own subscriber list, to send newsletters, to build your business. This one is a modification from Satollo plugin to send newsletters to BuddyPress groups
+  Version: 0.1 (based on Newsletter 2.5.2.6)
+  Author: Rafael Poveda - RaveN
+  Author URI: http://raven.es
+Contributors: bi0xid, _DorsVenabili, mecus
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDUEBSM9QRPDU
+Requires at least: 3.0
+Tested up to: 3.4
+Stable tag: 0.1
 
-  Copyright 2011 Stefano Lissa (email: stefano@satollo.net, web: http://www.satollo.net)
  */
 
 define('NEWSLETTER_LIST_MAX', 40);
